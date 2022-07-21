@@ -8,5 +8,6 @@ This is a solution to the Knight's tour problem, with Two implementations: brute
 
 ## Compile
 ```
-Execute compile.sh, and then execute the generated a.out
+- Run compile.sh
+- Execute the generated kinghts_tour.out
 ```
